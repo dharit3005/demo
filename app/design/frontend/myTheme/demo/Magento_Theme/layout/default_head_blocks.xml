@@ -10,5 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
         <css src="css/mycustom.css" media="all"/>
+
+        <script src="js/myscript.js"/>
     </head>
 </page>
